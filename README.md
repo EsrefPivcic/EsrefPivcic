@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello there! 👋
 
-<!--
-**EsrefPivcic/EsrefPivcic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm Ešref Pivčić, currently in my fourth year as a Software Engineering student at the Faculty of Information Technologies.
 
-Here are some ideas to get you started:
+💻 My expertise lies in .NET (ASP.NET Core APIs) and Angular, but I'm also in the process of mastering Go (REST APIs), React, PostgreSQL, and Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 While I'm on my learning journey, I'm actively seeking opportunities for internships and jobs to apply and expand my knowledge and skills.
+
+😊 Let's connect and grow together! Explore my projects, and don't hesitate to get in touch.
+
+📧 You can reach me at esrefpivcic@gmail.com
+
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/esref-pivcic)
