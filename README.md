@@ -2,7 +2,7 @@
 
 🎓 I'm Ešref Pivčić, currently in my fourth year as a Software Engineering student at the Faculty of Information Technologies.
 
-💻 My expertise lies in .NET (ASP.NET Core APIs) and Angular, but I'm also in the process of mastering Go (REST APIs), React, PostgreSQL, and Docker.
+💻 I've developed solid skills in .NET (especially ASP.NET Core APIs) and Angular in the past year. Currently, I'm on a learning journey exploring Go (for REST APIs), React, PostgreSQL, and Docker.
 
 🚀 While I'm on my learning journey, I'm actively seeking opportunities for internships and jobs to apply and expand my knowledge and skills.
 
