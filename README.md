@@ -8,10 +8,10 @@
 
 😊 Let's connect and grow together! Explore my projects, and don't hesitate to get in touch.
 
-📧 You can reach me at esrefpivcic@gmail.com
+📧 You can reach me at esrefpivcic@gmail.com.
 
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/esref-pivcic)
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/esref-pivcic).
 
-🎵 Listening right now:
+🎵 Currently listening:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wj6et8rmdx1lov815m9a4fo9k&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wj6et8rmdx1lov815m9a4fo9k&redirect=true)
