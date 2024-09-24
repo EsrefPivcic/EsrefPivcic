@@ -11,5 +11,3 @@
 📧 You can reach me at esrefpivcic@gmail.com.
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/esref-pivcic).
-
-🎵 Currently listening:
